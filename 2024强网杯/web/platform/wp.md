@@ -12,6 +12,7 @@
 ![session工作过程](jpgs/image2.png) 
 
 查看前端等地方没有看到利用的点，于是扫目录，扫到www.zip，有以下源码：
+
 ![源码](jpgs/image1.png)
 
 源码中有用的包括`index.php`, `class.php`和`dashboard.php`，先看一下`class.php`：
