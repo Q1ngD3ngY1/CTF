@@ -148,5 +148,6 @@ className="org.apache.commons.jelly.servlet.JellyServlet" field="REQUEST"/> <j:w
 
 
 ## 参考
-[\[1\] Apache Common Jelly浅析](https://xz.aliyun.com/t/16667?time__1311=Gui%3DYKGKDKiKY5DsLBxCq7In1xjEl71naoD#toc-4)
-[\[2\] Jelly官方文档](https://commons.apache.org/proper/commons-jelly/)
+[\[1\] Apache Common Jelly浅析](https://xz.aliyun.com/t/16667?time__1311=Gui%3DYKGKDKiKY5DsLBxCq7In1xjEl71naoD#toc-4)\
+[\[2\] Jelly官方文档](https://commons.apache.org/proper/commons-jelly/)\
+[\[3\] 国城杯2024 线上赛 writeup](https://jaspersec.top/2024/12/16/0x12%20%E5%9B%BD%E5%9F%8E%E6%9D%AF2024%20writeup%20with%20docker/#easy-jelly)
